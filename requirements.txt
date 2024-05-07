@@ -1,0 +1,9 @@
+flask
+flask-cors
+langchain
+openai 
+chromadb 
+tiktoken 
+unstructured
+sentence-transformers
+"unstructured[pdf]"
